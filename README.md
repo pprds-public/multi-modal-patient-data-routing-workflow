@@ -1,2 +1,2 @@
-# multi-modal-patient-data-routing-workflow
-AI-driven implementation of The Routing Workflow concept. It intelligently receives different types of patient data such as structured lab readings, medical imaging, and unstructured clinical notes and automatically routes each to the most suitable downstream AI model or processing pipeline.
+# Multi-Modal Patient Data Routing Workflow - Agentic AI System (WIP)
+AI-driven implementation of The Routing Workflow concept. It intelligently receives different types of patient data “modalities” such as structured lab readings, medical imaging, and unstructured clinical notes and automatically routes each to the most suitable downstream AI model or processing pipeline. Each modality requires a different type of model and different preprocessing logic. A multi-modal router sits between the sources and the specialized models.
